@@ -1,2 +1,2 @@
 # camerakaart
-Een kaart met camer's in België
+Een kaart met camera's in België
